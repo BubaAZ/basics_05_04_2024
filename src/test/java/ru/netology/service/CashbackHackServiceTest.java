@@ -41,6 +41,7 @@ public class CashbackHackServiceTest {
 
         assertEquals(actual, expected);
     }
+
     @Test
     public void shouldReturn999at1001() {
         int expected = 999;
